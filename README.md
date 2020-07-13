@@ -4,4 +4,4 @@ Data Mining aka Web Scraping is the extraction of valuable data from the interne
 
 I'll be going through the fundamentals of web scraping based on the O'reilly book, Web Scraping with Python(Collecting more data from the modern web).
 
-This repository contains the exercises.
+This repository contains the exercises and notes.
